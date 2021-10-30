@@ -10,7 +10,7 @@ Para rodar esse projeto você pode clonar e seguir as instruções:
 
 ### `yarn start`
 
-Roda aplicação em modeo desenvolvedor: [http://localhost:3000](http://localhost:3000).
+Roda aplicação em modo desenvolvedor: [http://localhost:3000](http://localhost:3000).
 
 ### `yarn build`
 
